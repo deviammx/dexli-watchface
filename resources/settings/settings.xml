@@ -1,0 +1,18 @@
+<settings>
+    <setting propertyKey="@Properties.ApiUrl" title="@Strings.ApiUrlTitle" prompt="Address starting with http(s)">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.ApiKey" title="@Strings.ApiKeyTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.BackgroundImageId" title="@Strings.BackgroundImage">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.BackgroundImage0</listEntry>
+            <listEntry value="1">@Strings.BackgroundImage1</listEntry>
+            <listEntry value="2">@Strings.BackgroundImage2</listEntry>
+            <listEntry value="3">@Strings.BackgroundImage3</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

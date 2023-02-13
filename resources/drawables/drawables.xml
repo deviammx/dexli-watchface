@@ -1,0 +1,13 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Background0" filename="dexli_background0.png" />
+    <bitmap id="Background1" filename="dexli_background1.png" />
+    <bitmap id="Background2" filename="dexli_background2.png" />
+    <bitmap id="Background3" filename="dexli_background3.png" />
+    <bitmap id="TrendUp" filename="arrow_up.png" />
+    <bitmap id="TrendUpRight" filename="arrow_up_right.png" />
+    <bitmap id="TrendRight" filename="arrow_right.png" />
+    <bitmap id="TrendDownRight" filename="arrow_down_right.png" />
+    <bitmap id="TrendDown" filename="arrow_down.png" />
+    <bitmap id="TrendTransparent" filename="arrow_transparent.png" />
+</drawables>

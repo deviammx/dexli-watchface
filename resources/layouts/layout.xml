@@ -1,0 +1,10 @@
+<layout id="WatchFace">
+    <bitmap id="BackgroundBitmap" x="center" y="center" filename="../drawables/dexli_background1.png" />
+
+    <label id="DexValueLabel" x="center" y="10%" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="DexDetailsLabel" x="center" y="25%"  font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="TimeLabel" x="center" y="40%" font="Graphics.FONT_SYSTEM_NUMBER_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <!--<label id="TimeLabel" x="center" y="center" font="@Fonts.SunnySpells" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" text="test" />-->
+    <label id="DateLabel" x="center" y="bottom" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <bitmap id="TrendBitmap" x="83%" y="3%" filename="../drawables/arrow_transparent.png" />
+</layout>

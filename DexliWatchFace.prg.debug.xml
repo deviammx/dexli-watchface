@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="1" lineNum="12" parent="globals/DexliWatchFaceView" pc="268437485" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="1" lineNum="13" parent="globals/DexliWatchFaceView" pc="268437489" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="2" lineNum="17" parent="globals/DexliWatchFaceView" pc="268437508" symbol="onLayout"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="2" lineNum="19" parent="globals/DexliWatchFaceView" pc="268437512" symbol="onLayout"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="30" parent="globals/DexliWatchFaceView" pc="268437550" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="31" parent="globals/DexliWatchFaceView" pc="268437554" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="32" parent="globals/DexliWatchFaceView" pc="268437578" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="34" parent="globals/DexliWatchFaceView" pc="268437615" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="35" parent="globals/DexliWatchFaceView" pc="268437626" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="36" parent="globals/DexliWatchFaceView" pc="268437661" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="37" parent="globals/DexliWatchFaceView" pc="268437672" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="38" parent="globals/DexliWatchFaceView" pc="268437707" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="39" parent="globals/DexliWatchFaceView" pc="268437718" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="3" lineNum="41" parent="globals/DexliWatchFaceView" pc="268437753" symbol="onShow"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="46" parent="globals/DexliWatchFaceView" pc="268437786" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="49" parent="globals/DexliWatchFaceView" pc="268437790" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="50" parent="globals/DexliWatchFaceView" pc="268437797" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="51" parent="globals/DexliWatchFaceView" pc="268437804" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="53" parent="globals/DexliWatchFaceView" pc="268437821" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="54" parent="globals/DexliWatchFaceView" pc="268437871" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="55" parent="globals/DexliWatchFaceView" pc="268437881" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="56" parent="globals/DexliWatchFaceView" pc="268437906" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="57" parent="globals/DexliWatchFaceView" pc="268437917" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="60" parent="globals/DexliWatchFaceView" pc="268437933" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="61" parent="globals/DexliWatchFaceView" pc="268437998" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="64" parent="globals/DexliWatchFaceView" pc="268438071" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="65" parent="globals/DexliWatchFaceView" pc="268438095" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="66" parent="globals/DexliWatchFaceView" pc="268438119" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="67" parent="globals/DexliWatchFaceView" pc="268438143" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="69" parent="globals/DexliWatchFaceView" pc="268438167" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="71" parent="globals/DexliWatchFaceView" pc="268438191" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="72" parent="globals/DexliWatchFaceView" pc="268438228" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="73" parent="globals/DexliWatchFaceView" pc="268438235" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="75" parent="globals/DexliWatchFaceView" pc="268438242" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="76" parent="globals/DexliWatchFaceView" pc="268438260" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="77" parent="globals/DexliWatchFaceView" pc="268438282" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="78" parent="globals/DexliWatchFaceView" pc="268438316" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="79" parent="globals/DexliWatchFaceView" pc="268438353" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="81" parent="globals/DexliWatchFaceView" pc="268438390" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="82" parent="globals/DexliWatchFaceView" pc="268438397" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="83" parent="globals/DexliWatchFaceView" pc="268438435" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="86" parent="globals/DexliWatchFaceView" pc="268438456" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="88" parent="globals/DexliWatchFaceView" pc="268438463" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="89" parent="globals/DexliWatchFaceView" pc="268438532" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="92" parent="globals/DexliWatchFaceView" pc="268438559" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="94" parent="globals/DexliWatchFaceView" pc="268438609" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="102" parent="globals/DexliWatchFaceView" pc="268438713" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="104" parent="globals/DexliWatchFaceView" pc="268438738" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="105" parent="globals/DexliWatchFaceView" pc="268438765" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="106" parent="globals/DexliWatchFaceView" pc="268438790" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="107" parent="globals/DexliWatchFaceView" pc="268438808" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="108" parent="globals/DexliWatchFaceView" pc="268438818" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="109" parent="globals/DexliWatchFaceView" pc="268438836" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="110" parent="globals/DexliWatchFaceView" pc="268438855" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="112" parent="globals/DexliWatchFaceView" pc="268438873" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="116" parent="globals/DexliWatchFaceView" pc="268438952" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="119" parent="globals/DexliWatchFaceView" pc="268438973" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="121" parent="globals/DexliWatchFaceView" pc="268439010" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="122" parent="globals/DexliWatchFaceView" pc="268439029" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="123" parent="globals/DexliWatchFaceView" pc="268439064" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="124" parent="globals/DexliWatchFaceView" pc="268439105" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="125" parent="globals/DexliWatchFaceView" pc="268439140" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="126" parent="globals/DexliWatchFaceView" pc="268439159" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="127" parent="globals/DexliWatchFaceView" pc="268439194" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="128" parent="globals/DexliWatchFaceView" pc="268439213" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="129" parent="globals/DexliWatchFaceView" pc="268439248" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="130" parent="globals/DexliWatchFaceView" pc="268439289" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="132" parent="globals/DexliWatchFaceView" pc="268439324" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="134" parent="globals/DexliWatchFaceView" pc="268439359" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="135" parent="globals/DexliWatchFaceView" pc="268439378" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="136" parent="globals/DexliWatchFaceView" pc="268439385" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="137" parent="globals/DexliWatchFaceView" pc="268439420" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="138" parent="globals/DexliWatchFaceView" pc="268439439" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="139" parent="globals/DexliWatchFaceView" pc="268439446" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="142" parent="globals/DexliWatchFaceView" pc="268439481" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="143" parent="globals/DexliWatchFaceView" pc="268439485" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="145" parent="globals/DexliWatchFaceView" pc="268439517" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="148" parent="globals/DexliWatchFaceView" pc="268439554" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="149" parent="globals/DexliWatchFaceView" pc="268439568" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="150" parent="globals/DexliWatchFaceView" pc="268439582" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="155" parent="globals/DexliWatchFaceView" pc="268439595" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="156" parent="globals/DexliWatchFaceView" pc="268439609" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="4" lineNum="164" parent="globals/DexliWatchFaceView" pc="268439623" symbol="onUpdate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="5" lineNum="170" parent="globals/DexliWatchFaceView" pc="268439644" symbol="onHide"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="6" lineNum="174" parent="globals/DexliWatchFaceView" pc="268439649" symbol="onExitSleep"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="7" lineNum="178" parent="globals/DexliWatchFaceView" pc="268439654" symbol="onEnterSleep"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="8" lineNum="9" parent="globals/DexliWatchFaceView" pc="268440766" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceView.mc" id="8" lineNum="9" parent="globals/DexliWatchFaceView" pc="268440766" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="10" lineNum="10" parent="globals/DexDataServiceDelegate" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="10" lineNum="11" parent="globals/DexDataServiceDelegate" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="10" lineNum="12" parent="globals/DexDataServiceDelegate" pc="268435481" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="11" lineNum="15" parent="globals/DexDataServiceDelegate" pc="268435500" symbol="onTemporalEvent"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="11" lineNum="16" parent="globals/DexDataServiceDelegate" pc="268435504" symbol="onTemporalEvent"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="11" lineNum="17" parent="globals/DexDataServiceDelegate" pc="268435525" symbol="onTemporalEvent"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="20" parent="globals/DexDataServiceDelegate" pc="268435538" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="21" parent="globals/DexDataServiceDelegate" pc="268435542" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="23" parent="globals/DexDataServiceDelegate" pc="268435563" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="24" parent="globals/DexDataServiceDelegate" pc="268435600" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="25" parent="globals/DexDataServiceDelegate" pc="268435605" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="27" parent="globals/DexDataServiceDelegate" pc="268435633" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="30" parent="globals/DexDataServiceDelegate" pc="268435657" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="31" parent="globals/DexDataServiceDelegate" pc="268435694" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="32" parent="globals/DexDataServiceDelegate" pc="268435699" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="34" parent="globals/DexDataServiceDelegate" pc="268435727" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="36" parent="globals/DexDataServiceDelegate" pc="268435751" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="37" parent="globals/DexDataServiceDelegate" pc="268435776" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="38" parent="globals/DexDataServiceDelegate" pc="268435797" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="40" parent="globals/DexDataServiceDelegate" pc="268435801" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="42" parent="globals/DexDataServiceDelegate" pc="268435811" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="52" parent="globals/DexDataServiceDelegate" pc="268435903" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="12" lineNum="54" parent="globals/DexDataServiceDelegate" pc="268435921" symbol="makeRequest"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="58" parent="globals/DexDataServiceDelegate" pc="268435964" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="59" parent="globals/DexDataServiceDelegate" pc="268435968" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="60" parent="globals/DexDataServiceDelegate" pc="268435989" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="61" parent="globals/DexDataServiceDelegate" pc="268436007" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="62" parent="globals/DexDataServiceDelegate" pc="268436015" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="63" parent="globals/DexDataServiceDelegate" pc="268436026" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="64" parent="globals/DexDataServiceDelegate" pc="268436047" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="65" parent="globals/DexDataServiceDelegate" pc="268436057" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="66" parent="globals/DexDataServiceDelegate" pc="268436076" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="67" parent="globals/DexDataServiceDelegate" pc="268436087" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="68" parent="globals/DexDataServiceDelegate" pc="268436111" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="69" parent="globals/DexDataServiceDelegate" pc="268436121" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="71" parent="globals/DexDataServiceDelegate" pc="268436137" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="72" parent="globals/DexDataServiceDelegate" pc="268436161" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="73" parent="globals/DexDataServiceDelegate" pc="268436171" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="74" parent="globals/DexDataServiceDelegate" pc="268436222" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="76" parent="globals/DexDataServiceDelegate" pc="268436241" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="80" parent="globals/DexDataServiceDelegate" pc="268436254" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="13" lineNum="81" parent="globals/DexDataServiceDelegate" pc="268436275" symbol="onReceive"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="14" lineNum="8" parent="globals/DexDataServiceDelegate" pc="268437466" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="14" lineNum="8" parent="globals/DexDataServiceDelegate" pc="268437466" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="86" parent="globals" pc="268436294" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="87" parent="globals" pc="268436306" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="88" parent="globals" pc="268436310" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="89" parent="globals" pc="268436315" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="91" parent="globals" pc="268436330" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="92" parent="globals" pc="268436337" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="93" parent="globals" pc="268436353" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="95" parent="globals" pc="268436404" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexDataServiceDelegate.mc" id="15" lineNum="98" parent="globals" pc="268436410" symbol="stringReplace"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="17" lineNum="8" parent="globals/Background" pc="268439659" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="17" lineNum="9" parent="globals/Background" pc="268439663" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="17" lineNum="13" parent="globals/Background" pc="268439684" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="18" lineNum="16" parent="globals/Background" pc="268439705" symbol="draw"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="18" lineNum="18" parent="globals/Background" pc="268439709" symbol="draw"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="18" lineNum="19" parent="globals/Background" pc="268439758" symbol="draw"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="19" lineNum="6" parent="globals/Background" pc="268440717" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceBackground.mc" id="19" lineNum="6" parent="globals/Background" pc="268440717" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="21" lineNum="9" parent="globals/DexliWatchFaceApp" pc="268436413" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="21" lineNum="10" parent="globals/DexliWatchFaceApp" pc="268436417" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="21" lineNum="11" parent="globals/DexliWatchFaceApp" pc="268436440" symbol="initialize"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="22" lineNum="15" parent="globals/DexliWatchFaceApp" pc="268436459" symbol="onStart"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="22" lineNum="21" parent="globals/DexliWatchFaceApp" pc="268436463" symbol="onStart"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="23" lineNum="25" parent="globals/DexliWatchFaceApp" pc="268436487" symbol="onStop"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="23" lineNum="26" parent="globals/DexliWatchFaceApp" pc="268436491" symbol="onStop"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="23" lineNum="27" parent="globals/DexliWatchFaceApp" pc="268436514" symbol="onStop"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="24" lineNum="31" parent="globals/DexliWatchFaceApp" pc="268436535" symbol="getInitialView"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="24" lineNum="32" parent="globals/DexliWatchFaceApp" pc="268436539" symbol="getInitialView"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="24" lineNum="33" parent="globals/DexliWatchFaceApp" pc="268436562" symbol="getInitialView"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="24" lineNum="34" parent="globals/DexliWatchFaceApp" pc="268436609" symbol="getInitialView"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="25" lineNum="38" parent="globals/DexliWatchFaceApp" pc="268436647" symbol="onSettingsChanged"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="25" lineNum="39" parent="globals/DexliWatchFaceApp" pc="268436651" symbol="onSettingsChanged"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="26" lineNum="42" parent="globals/DexliWatchFaceApp" pc="268436675" symbol="getServiceDelegate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="26" lineNum="43" parent="globals/DexliWatchFaceApp" pc="268436679" symbol="getServiceDelegate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="26" lineNum="46" parent="globals/DexliWatchFaceApp" pc="268436702" symbol="getServiceDelegate"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="49" parent="globals/DexliWatchFaceApp" pc="268436740" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="50" parent="globals/DexliWatchFaceApp" pc="268436744" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="51" parent="globals/DexliWatchFaceApp" pc="268436767" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="53" parent="globals/DexliWatchFaceApp" pc="268436787" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="54" parent="globals/DexliWatchFaceApp" pc="268436839" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="56" parent="globals/DexliWatchFaceApp" pc="268436862" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="57" parent="globals/DexliWatchFaceApp" pc="268436903" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="60" parent="globals/DexliWatchFaceApp" pc="268436907" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="61" parent="globals/DexliWatchFaceApp" pc="268436958" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="63" parent="globals/DexliWatchFaceApp" pc="268436984" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="64" parent="globals/DexliWatchFaceApp" pc="268437028" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="67" parent="globals/DexliWatchFaceApp" pc="268437032" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="68" parent="globals/DexliWatchFaceApp" pc="268437112" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="70" parent="globals/DexliWatchFaceApp" pc="268437135" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="71" parent="globals/DexliWatchFaceApp" pc="268437176" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="73" parent="globals/DexliWatchFaceApp" pc="268437180" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="74" parent="globals/DexliWatchFaceApp" pc="268437221" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="75" parent="globals/DexliWatchFaceApp" pc="268437277" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="76" parent="globals/DexliWatchFaceApp" pc="268437333" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="27" lineNum="77" parent="globals/DexliWatchFaceApp" pc="268437389" symbol="onBackgroundData"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="28" lineNum="7" parent="globals/DexliWatchFaceApp" pc="268437447" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="28" lineNum="7" parent="globals/DexliWatchFaceApp" pc="268437447" symbol="&lt;init&gt;"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="29" lineNum="84" parent="globals" pc="268439771" symbol="getApp"/>
+<entry filename="/Users/maximkuldyaev/Development/Monkey-C/DexliWatchFace/source/DexliWatchFaceApp.mc" id="29" lineNum="85" parent="globals" pc="268439783" symbol="getApp"/>
+<entry filename="Rez" id="31" lineNum="2" parent="globals/Rez/Drawables" pc="268440760" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="32" lineNum="18" parent="globals/Rez/Fonts" pc="268440762" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="22" parent="globals/Rez/JsonData" pc="268440764" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="34" lineNum="31" parent="globals/Rez/Layouts" pc="268439800" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="33" parent="globals/Rez/Layouts" pc="268439812" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="34" parent="globals/Rez/Layouts" pc="268439931" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="35" parent="globals/Rez/Layouts" pc="268439983" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="36" parent="globals/Rez/Layouts" pc="268440116" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="37" parent="globals/Rez/Layouts" pc="268440249" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="38" parent="globals/Rez/Layouts" pc="268440382" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="39" parent="globals/Rez/Layouts" pc="268440522" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="40" parent="globals/Rez/Layouts" pc="268440627" symbol="WatchFace"/>
+<entry filename="Rez" id="34" lineNum="42" parent="globals/Rez/Layouts" pc="268440649" symbol="WatchFace"/>
+<entry filename="Rez" id="35" lineNum="24" parent="globals/Rez/Layouts" pc="268440763" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="36" lineNum="47" parent="globals/Rez/Menus" pc="268440761" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="49" parent="globals/Rez/Strings" pc="268440765" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="38" lineNum="1" parent="globals/Rez" pc="268440736" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="38" lineNum="1" parent="globals/Rez" pc="268440736" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="22" symbol="TrendUpRight"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="30" symbol="SunnySpells"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="10" object="true" symbol="DexDataServiceDelegate"/>
+<entry field="true" id="38" symbol="AppName"/>
+<entry id="8389339" symbol="second"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389338" symbol="minute"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="27" symbol="BackgroundBitmap"/>
+<entry field="true" id="26" symbol="TrendTransparent"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="9" object="true" symbol="DexliWatchFaceView"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="39" symbol="&lt;globals/DexliWatchFaceView/&lt;&gt;isFullyInitialized&gt;"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="13" method="true" symbol="makeRequest"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="23" symbol="TrendRight"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry field="true" id="25" symbol="TrendDown"/>
+<entry id="8389844" symbol="responseType"/>
+<entry field="true" id="20" symbol="Background3"/>
+<entry field="true" id="19" symbol="Background2"/>
+<entry field="true" id="18" symbol="Background1"/>
+<entry field="true" id="17" symbol="Background0"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="11" method="true" symbol="stringReplace"/>
+<entry id="14" method="true" symbol="onReceive"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="21" symbol="TrendUp"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="28" symbol="TrendBitmap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="24" symbol="TrendDownRight"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="33" symbol="BackgroundImage"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="36" symbol="ApiUrlTitle"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry field="true" id="37" symbol="ApiKeyTitle"/>
+<entry field="true" id="31" symbol="BackgroundImage3"/>
+<entry field="true" id="34" symbol="BackgroundImage2"/>
+<entry field="true" id="32" symbol="BackgroundImage1"/>
+<entry field="true" id="35" symbol="BackgroundImage0"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="12" object="true" symbol="DexliWatchFaceApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268437549" name="dc" stackId="1" startPc="268437508"/>
+<entry endPc="268437784" name="backgroundImageId" stackId="2" startPc="268437554"/>
+<entry endPc="268437784" name="backgroundBitmap" stackId="1" startPc="268437554"/>
+<entry endPc="268438969" name="utcInfo" stackId="20" startPc="268438463"/>
+<entry endPc="268438969" name="dexTimeDeltaMin" stackId="24" startPc="268438463"/>
+<entry endPc="268438969" name="options" stackId="21" startPc="268438463"/>
+<entry endPc="268438969" name="dexTimeUTC" stackId="19" startPc="268438463"/>
+<entry endPc="268438969" name="dexTimeDelta" stackId="23" startPc="268438463"/>
+<entry endPc="268438969" name="duration" stackId="25" startPc="268438463"/>
+<entry endPc="268438969" name="utcNow" stackId="22" startPc="268438463"/>
+<entry endPc="268439355" name="trend_value" stackId="18" startPc="268438316"/>
+<entry endPc="268439355" name="svg_value" stackId="17" startPc="268438316"/>
+<entry endPc="268439355" name="direction" stackId="26" startPc="268438316"/>
+<entry endPc="268439642" name="timeString" stackId="7" startPc="268437790"/>
+<entry endPc="268439642" name="dexValueView" stackId="11" startPc="268437790"/>
+<entry endPc="268439642" name="dateFormat" stackId="3" startPc="268437790"/>
+<entry endPc="268439642" name="dexError" stackId="14" startPc="268437790"/>
+<entry endPc="268439642" name="clockTime" stackId="4" startPc="268437790"/>
+<entry endPc="268439642" name="timeFormat" stackId="2" startPc="268437790"/>
+<entry endPc="268439642" name="dexValueString" stackId="15" startPc="268437790"/>
+<entry endPc="268439642" name="dateView" stackId="10" startPc="268437790"/>
+<entry endPc="268439642" name="dexDetailsString" stackId="16" startPc="268437790"/>
+<entry endPc="268439642" name="dexDetailsView" stackId="12" startPc="268437790"/>
+<entry endPc="268439642" name="trendBitmap" stackId="13" startPc="268437790"/>
+<entry endPc="268439642" name="today" stackId="5" startPc="268437790"/>
+<entry endPc="268439642" name="dateString" stackId="8" startPc="268437790"/>
+<entry endPc="268439642" name="hours" stackId="6" startPc="268437790"/>
+<entry endPc="268439642" name="timeView" stackId="9" startPc="268437790"/>
+<entry arg="true" endPc="268439643" name="dc" stackId="1" startPc="268437786"/>
+<entry endPc="268435962" name="options" stackId="3" startPc="268435542"/>
+<entry endPc="268435962" name="url" stackId="1" startPc="268435542"/>
+<entry endPc="268435962" name="responseCallback" stackId="4" startPc="268435542"/>
+<entry endPc="268435962" name="apiKey" stackId="2" startPc="268435542"/>
+<entry endPc="268436292" name="response" stackId="3" startPc="268435968"/>
+<entry arg="true" endPc="268436293" name="responseCode" stackId="1" startPc="268435964"/>
+<entry arg="true" endPc="268436293" name="data" stackId="2" startPc="268435964"/>
+<entry endPc="268436400" name="index2" stackId="6" startPc="268436337"/>
+<entry endPc="268436406" name="index" stackId="5" startPc="268436315"/>
+<entry endPc="268436411" name="result" stackId="4" startPc="268436306"/>
+<entry arg="true" endPc="268436412" name="oldString" stackId="2" startPc="268436294"/>
+<entry arg="true" endPc="268436412" name="newString" stackId="3" startPc="268436294"/>
+<entry arg="true" endPc="268436412" name="str" stackId="1" startPc="268436294"/>
+<entry endPc="268439703" name="dictionary" stackId="1" startPc="268439663"/>
+<entry arg="true" endPc="268439770" name="dc" stackId="1" startPc="268439705"/>
+<entry arg="true" endPc="268436486" name="state" stackId="1" startPc="268436459"/>
+<entry arg="true" endPc="268436534" name="state" stackId="1" startPc="268436487"/>
+<entry arg="true" endPc="268437445" name="data" stackId="1" startPc="268436740"/>
+<entry endPc="268440715" name="rez_cmp_local_text_TimeLabel" stackId="5" startPc="268439812"/>
+<entry endPc="268440715" name="rez_cmp_local_text_DateLabel" stackId="6" startPc="268439812"/>
+<entry endPc="268440715" name="rez_cmp_local_text_DexDetailsLabel" stackId="4" startPc="268439812"/>
+<entry endPc="268440715" name="rez_cmp_local_text_DexValueLabel" stackId="3" startPc="268439812"/>
+<entry endPc="268440715" name="rez_cmp_local_bitmap_BackgroundBitmap" stackId="2" startPc="268439812"/>
+<entry endPc="268440715" name="rez_cmp_local_bitmap_TrendBitmap" stackId="7" startPc="268439812"/>
+<entry arg="true" endPc="268440716" name="dc" stackId="1" startPc="268439800"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background0"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background1"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background3"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendUp"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendUpRight"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendRight"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendDownRight"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendDown"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendTransparent"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BackgroundBitmap"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TrendBitmap"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="SunnySpells"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundImage3"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundImage1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundImage"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundImage2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundImage0"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ApiUrlTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ApiKeyTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/DexliWatchFaceApp" offset="182" parentId="globals" symbolId="DexliWatchFaceApp" type="class"/>
+<dataEntry label="globals/DexDataServiceDelegate" offset="277" parentId="globals" symbolId="DexDataServiceDelegate" type="class"/>
+<dataEntry label="globals/Background" offset="1496" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/Rez" offset="1551" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1630" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="1765" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="1796" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="1835" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="1874" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="1905" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/DexliWatchFaceView" offset="2000" parentId="globals" symbolId="DexliWatchFaceView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268437507" name="initialize" parent="DexliWatchFaceView" startPc="268437485">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437549" name="onLayout" parent="DexliWatchFaceView" startPc="268437508">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437785" name="onShow" parent="DexliWatchFaceView" startPc="268437550">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439643" name="onUpdate" parent="DexliWatchFaceView" startPc="268437786">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439648" name="onHide" parent="DexliWatchFaceView" startPc="268439644">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439653" name="onExitSleep" parent="DexliWatchFaceView" startPc="268439649">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439658" name="onEnterSleep" parent="DexliWatchFaceView" startPc="268439654">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440784" name="&lt;init&gt;" parent="DexliWatchFaceView" startPc="268440766">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435499" name="initialize" parent="DexDataServiceDelegate" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435537" name="onTemporalEvent" parent="DexDataServiceDelegate" startPc="268435500">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435963" name="makeRequest" parent="DexDataServiceDelegate" startPc="268435538">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436293" name="onReceive" parent="DexDataServiceDelegate" startPc="268435964">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437484" name="&lt;init&gt;" parent="DexDataServiceDelegate" startPc="268437466">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436412" name="stringReplace" startPc="268436294">
+<param id="str"/>
+<param id="oldString"/>
+<param id="newString"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439704" name="initialize" parent="Background" startPc="268439659">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439770" name="draw" parent="Background" startPc="268439705">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440735" name="&lt;init&gt;" parent="Background" startPc="268440717">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436458" name="initialize" parent="DexliWatchFaceApp" startPc="268436413">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436486" name="onStart" parent="DexliWatchFaceApp" startPc="268436459">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436534" name="onStop" parent="DexliWatchFaceApp" startPc="268436487">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436646" name="getInitialView" parent="DexliWatchFaceApp" startPc="268436535">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436674" name="onSettingsChanged" parent="DexliWatchFaceApp" startPc="268436647">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436739" name="getServiceDelegate" parent="DexliWatchFaceApp" startPc="268436675">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437445" name="onBackgroundData" parent="DexliWatchFaceApp" startPc="268436740">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437465" name="&lt;init&gt;" parent="DexliWatchFaceApp" startPc="268437447">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439799" name="getApp" startPc="268439771">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440760" name="&lt;init&gt;" parent="Drawables" startPc="268440760">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440762" name="&lt;init&gt;" parent="Fonts" startPc="268440762">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440764" name="&lt;init&gt;" parent="JsonData" startPc="268440764">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440716" name="WatchFace" parent="Layouts" startPc="268439800">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440763" name="&lt;init&gt;" parent="Layouts" startPc="268440763">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440761" name="&lt;init&gt;" parent="Menus" startPc="268440761">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440765" name="&lt;init&gt;" parent="Strings" startPc="268440765">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440759" name="&lt;init&gt;" parent="Rez" startPc="268440736">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

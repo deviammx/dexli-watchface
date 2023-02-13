@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Dexli Watch Face</string>
+    <string id="ApiUrlTitle">API Url</string>
+    <string id="ApiKeyTitle">API Key</string>
+    <string id="BackgroundImage">Background Image</string>
+    <string id="BackgroundImage0">Green</string>
+    <string id="BackgroundImage1">Trees</string>
+    <string id="BackgroundImage2">Mountains</string>
+    <string id="BackgroundImage3">Birds</string>
+</strings>
